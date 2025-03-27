@@ -33,6 +33,7 @@ Risk Management – Identify potential financial risks early and prepare conting
 -Late-stage issues are costly to fix.
 -Delivers the final product only at the end.
 ## 4. In what types of projects might Agile be more beneficial than Waterfall, and vice versa? Can you provide examples of each?
+Agile works best for projects that require flexibility, continuous iteration, and frequent feedback. It is ideal for dynamic environments where requirements may change over time.
 ## 5. What are some methods for ensuring quality assurance throughout a software project? Why is it important to maintain high standards?
 ## 6. How does defining the project scope contribute to successful project planning? What is a Work Breakdown Structure (WBS), and why is it useful?
 ## 7. What are the benefits of developing a detailed project schedule, and how can Gantt charts assist in this process?
